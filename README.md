@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-stack MERN applications<br>👯 I’m looking to collaborate on Open-source web & full-stack projects<br>🤝 I’m looking for help with System design & distributed systems<br>🌱 I’m currently learning Advanced DSA & AWS<br>💬 Ask me about React.js, Node.js, DSA<br>⚡ Fun fact I argue with my code until it agrees with me.
+🔭 I’m currently working on Full-stack MERN applications<br>👯 I’m looking to collaborate on Open-source web & full-stack projects<br>🤝 I’m looking for help with System design & distributed systems<br>🌱 I’m currently learning Advanced DSA & AWS<br>💬 Ask me about React.js, Python, DSA<br>⚡ Fun fact I argue with my code until it agrees with me.
 
 
 ## 🌐 Socials:
